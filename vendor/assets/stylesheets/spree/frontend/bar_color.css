@@ -1,0 +1,36 @@
+#default{
+	color:white;
+	font-family: Century Gothic;
+	background-color: white;
+}
+.breadcrumb{
+	background-color: #002A3F;
+	color: white;
+}
+
+#spree-header{
+	background: #118304;
+	color: white;
+}
+#home-page{
+	color:black;
+  font-family: Century Gothic;
+	background-color: white;
+
+}
+.panel-body{
+	background-color: white;
+	color: white;
+}
+.panel-footer{
+	background-color: #002A3F;
+	color: white;
+}
+.a.list-group-item{
+	background-color: #118304;
+	color: white;
+}
+.list-group-item{
+	background-color: #118304;
+	color: white;
+}
